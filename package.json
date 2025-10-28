@@ -1,0 +1,10 @@
+{
+  "name": "laststraw",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^3.78.0"
+  },
+  "scripts": {
+    "dev": "wrangler pages dev Public"
+  }
+}
