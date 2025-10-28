@@ -1,4 +1,3 @@
-# Local Pages dev convenience (no need to change for deploy)
+# wrangler.toml (minimal Pages-friendly config)
 [pages]
-# If you ever build to another folder, update this.
-# For your case we're serving Public/ directly with no build.
+pages_build_output_dir = "Public"
