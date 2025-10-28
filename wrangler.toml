@@ -1,0 +1,4 @@
+# Local Pages dev convenience (no need to change for deploy)
+[pages]
+# If you ever build to another folder, update this.
+# For your case we're serving Public/ directly with no build.
